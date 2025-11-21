@@ -1,0 +1,11 @@
+_id = -1
+owner = noone
+effect = EFF_ZERO
+dmg = 4
+x_dir = 1
+y_dir = 1
+hspd = 0;
+vspd = 0;
+x_accel = 0;
+y_accel = 0;
+alarm[0] = 4

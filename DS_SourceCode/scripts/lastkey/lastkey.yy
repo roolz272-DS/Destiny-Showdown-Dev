@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lastkey",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lastkey",
+  "parent":{
+    "name":"shortcuts",
+    "path":"folders/scripts/shortcuts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

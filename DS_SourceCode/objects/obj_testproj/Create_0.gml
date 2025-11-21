@@ -1,0 +1,13 @@
+_id = -1
+owner = noone
+effect = EFF_ZERO
+dmg = 4
+low = false
+x_dir = 1;
+hspd = 1;
+vspd = 1;
+x_accel = 0;
+y_accel = 0;
+becomes = 0
+perk = PERK_NONE
+shelladd = true;

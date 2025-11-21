@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RenderGimmicks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RenderGimmicks",
+  "parent":{
+    "name":"UI",
+    "path":"folders/scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hitManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hitManager",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

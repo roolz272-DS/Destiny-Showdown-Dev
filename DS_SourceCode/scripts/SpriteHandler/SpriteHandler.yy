@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpriteHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpriteHandler",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

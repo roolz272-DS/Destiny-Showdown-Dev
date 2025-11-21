@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpareManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpareManager",
+  "parent":{
+    "name":"CharHitManagers",
+    "path":"folders/scripts/chars/CharHitManagers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

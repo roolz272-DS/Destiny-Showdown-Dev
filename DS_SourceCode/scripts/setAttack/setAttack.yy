@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setAttack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setAttack",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

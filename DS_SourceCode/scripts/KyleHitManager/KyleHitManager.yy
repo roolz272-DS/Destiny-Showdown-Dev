@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"KyleHitManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"KyleHitManager",
+  "parent":{
+    "name":"CharHitManagers",
+    "path":"folders/scripts/chars/CharHitManagers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

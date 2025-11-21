@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"createHit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createHit",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

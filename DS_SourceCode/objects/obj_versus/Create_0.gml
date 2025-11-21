@@ -1,0 +1,11 @@
+p1char = global.p1_char;
+p2char = global.p2_char;
+stage = global.stage;
+songplayed = 0;
+ports = [VSKyle, VSKyle, VSKyle, VSKyle]
+names = ["Kyle Morrow", "Aragon", "Shredder", "Fred + Virus"]
+tinyports = [kyle_icon, aragon_icon, kyle_icon, kyle_icon]
+p1dia = ""
+p2dia = ""
+creo = noone;
+nodrag = 0

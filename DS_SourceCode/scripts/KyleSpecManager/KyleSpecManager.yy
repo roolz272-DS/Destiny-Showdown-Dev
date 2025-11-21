@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"KyleSpecManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"KyleSpecManager",
+  "parent":{
+    "name":"CharSpriteManagers",
+    "path":"folders/scripts/chars/CharSpriteManagers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

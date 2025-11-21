@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AnimControl",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AnimControl",
+  "parent":{
+    "name":"CharSpriteManagers",
+    "path":"folders/scripts/chars/CharSpriteManagers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

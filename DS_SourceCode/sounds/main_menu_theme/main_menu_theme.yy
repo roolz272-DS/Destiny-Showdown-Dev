@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"main_menu_theme",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":123.90626,
+  "name":"main_menu_theme",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"main_menu_theme.ogg",
+  "type":0,
+  "volume":0.27,
+}

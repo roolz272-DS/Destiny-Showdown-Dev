@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RandomBaseID",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RandomBaseID",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setSpecial",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setSpecial",
+  "parent":{
+    "name":"chars",
+    "path":"folders/scripts/chars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

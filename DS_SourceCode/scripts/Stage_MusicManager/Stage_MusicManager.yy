@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Stage_MusicManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Stage_MusicManager",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
