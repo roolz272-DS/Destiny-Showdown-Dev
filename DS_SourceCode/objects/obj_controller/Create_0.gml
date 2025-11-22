@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-var original_y = 200;
+var original_y = 200
 var original_x_p1 = room_width/2-100;
 var original_x_p2 = room_width/2+100;
 p1 = instance_create_layer(original_x_p1, original_y, "Instances", obj_player);
